@@ -8,9 +8,14 @@
 ![Nordli](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/nordli_original.jpg)
 
 ## Build your table
+<<<<<<< HEAD
 3D model:
 
 <iframe width="640" height="480" src="https://sketchfab.com/models/a009bfdf1fbd4ba9acef5b6bbcd4241b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+=======
+<iframe width="600" height="450" src="https://sketchfab.com/models/a009bfdf1fbd4ba9acef5b6bbcd4241b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+>>>>>>> origin/master
 
 2D preview:
 
@@ -28,7 +33,11 @@ Use the downloaded file to cut the panel with the laser cut machine:
 
 ![render](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/taglio.png)
 
+<<<<<<< HEAD
 Use glue to hold the hooks to the table:
+=======
+Hold the hooks to the table using the glue
+>>>>>>> origin/master
 
 ![glue](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/howtoglue.jpg)
 
