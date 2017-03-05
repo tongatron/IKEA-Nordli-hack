@@ -5,10 +5,14 @@
 ## Based on
 [IKEA Nordli modular drawer chest](http://www.ikea.com/us/en/catalog/categories/series/27271/)
 
-![Nordli](http://www.ikea.com/ms/media/seorange/20173/20144_besr02a_nordli_PH140763.jpg)
+![Nordli](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/nordli_original.jpg)
 
 ## Build your table
+3D model:
+
 <iframe width="640" height="480" src="https://sketchfab.com/models/a009bfdf1fbd4ba9acef5b6bbcd4241b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+2D preview:
 
 ![Render](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/render.png)
 
@@ -20,11 +24,11 @@
 
 ## Instructions
 
-Use the downloaded file to cut the panel with the laser cut machine
+Use the downloaded file to cut the panel with the laser cut machine:
 
 ![render](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/taglio.png)
 
-Use glue to hold the hooks to the table
+Use glue to hold the hooks to the table:
 
 ![glue](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/howtoglue.jpg)
 
