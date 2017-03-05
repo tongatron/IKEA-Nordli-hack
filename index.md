@@ -9,7 +9,7 @@
 
 ## Build your table
 
-3D model:
+3D preview:
 
 <iframe width="600" height="450" src="https://sketchfab.com/models/a009bfdf1fbd4ba9acef5b6bbcd4241b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
