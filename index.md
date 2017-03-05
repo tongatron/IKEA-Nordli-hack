@@ -8,7 +8,7 @@
 ![Nordli](http://www.ikea.com/ms/media/seorange/20173/20144_besr02a_nordli_PH140763.jpg)
 
 ## Build your table
-<iframe width="640" height="480" src="https://sketchfab.com/models/a009bfdf1fbd4ba9acef5b6bbcd4241b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<iframe width="600" height="450" src="https://sketchfab.com/models/a009bfdf1fbd4ba9acef5b6bbcd4241b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
 
 ![Render](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/render.png)
