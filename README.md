@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+![Drawer](https://raw.githubusercontent.com/tongatron/Nordli-IkeaHack/master/img/cassetto2.jpg)
 
-You can use the [editor on GitHub](https://github.com/tongatron/IKEA-Nordli-hack/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Based on
+[IKEA Nordli modular drawer chest](http://www.ikea.com/us/en/catalog/categories/series/27271/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Nordli](http://www.ikea.com/ms/media/seorange/20173/20144_besr02a_nordli_PH140763.jpg)
 
-### Markdown
+## Build your table
+<iframe width="640" height="480" src="https://sketchfab.com/models/a009bfdf1fbd4ba9acef5b6bbcd4241b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Render](https://raw.githubusercontent.com/tongatron/Nordli-IkeaHack/master/img/render.png)
 
-```markdown
-Syntax highlighted code block
+## What you need
+- **Wood panel** 3mm thickness, at least 270x390 mm for the short drawer and 270x790 mm for the long one. I’m using poplar panels, you can use any material that can be cutted by your machine
+- **Laser cut machine** to cut the wood panel. Fablabs are a global network of local labs and they provide access to tools for digital fabrication: [fablabs.io/labs/map](https://www.fablabs.io/labs/map)
+- **Design files**, you will find both the designs files for the short and the long drawers: [IKEA-Nordli-hack.zip](https://github.com/tongatron/IKEA-Nordli-hack/raw/master/design/IKEA-Nordli-hack.zip)
+- **Wood glue**
 
-# Header 1
-## Header 2
-### Header 3
+## Instructions
 
-- Bulleted
-- List
+Use the downloaded file to cut the panel with the laser cut machine
 
-1. Numbered
-2. List
+![render](https://raw.githubusercontent.com/tongatron/Nordli-IkeaHack/master/img/taglio.png)
 
-**Bold** and _Italic_ and `Code` text
+Use glue to hold the hooks to the table
 
-[Link](url) and ![Image](src)
-```
+![glue](https://raw.githubusercontent.com/tongatron/Nordli-IkeaHack/master/img/howtoglue.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You’re done!
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tongatron/IKEA-Nordli-hack/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+MADE IN 
 
-### Support or Contact
+![Fablab Torino](https://raw.githubusercontent.com/tongatron/Nordli-IkeaHack/master/img/fablabtorino.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[fablabtorino.org](http://fablabtorino.org/)
