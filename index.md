@@ -2,6 +2,8 @@
 
 ![Drawer2](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/cassetto2.jpg)
 
+![Drawer2](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/IKEA-Nordli-hack-4.jpg)
+
 ## Based on
 [IKEA Nordli modular drawer chest](http://www.ikea.com/us/en/catalog/categories/series/27271/)
 
@@ -9,16 +11,10 @@
 
 ## Build your table
 
-3D model:
-
-<iframe width="600" height="450" src="https://sketchfab.com/models/a009bfdf1fbd4ba9acef5b6bbcd4241b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
-
-2D preview:
-
-![Render](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/render.png)
+![Render](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/IKEA-Nordli-hack-5.jpg)
 
 ## What you need
-- **Wood panel** 6mm thickness, at least 270x390 mm for the short drawer and 270x790 mm for the long one. I’m using poplar panels, you can use any material that can be cutted by your machine.
+- **Wood panel** 6mm thickness, at least 320x390 mm for the short drawer and 320x790 mm for the long one. I’m using poplar panels, you can use any material that can be cutted by your machine.
 - **Laser cut machine** to cut the wood panel. Fablabs are a global network of local labs and they provide access to tools for digital fabrication: [fablabs.io/labs/map](https://www.fablabs.io/labs/map)
 - **Design files**, you will find both the designs files for the short and the long drawers: [IKEA-Nordli-hack.zip](https://github.com/tongatron/IKEA-Nordli-hack/raw/master/design/IKEA-Nordli-hack.zip)
 - **Wood glue**
