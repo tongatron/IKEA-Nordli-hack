@@ -13,6 +13,14 @@
 
 ![Render](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/IKEA-Nordli-hack-5.jpg)
 
+3D preview:
+
+<iframe width="600" height="450" src="https://sketchfab.com/models/a009bfdf1fbd4ba9acef5b6bbcd4241b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+2D preview:
+
+![Render](https://raw.githubusercontent.com/tongatron/IKEA-Nordli-hack/master/img/render.png)
+
 ## What you need
 - **Wood panel** 6mm thickness, at least 320x390 mm for the short drawer and 320x790 mm for the long one. I’m using poplar panels, you can use any material that can be cutted by your machine.
 - **Laser cut machine** to cut the wood panel. Fablabs are a global network of local labs and they provide access to tools for digital fabrication: [fablabs.io/labs/map](https://www.fablabs.io/labs/map)
